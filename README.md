@@ -1,4 +1,4 @@
-# 6. Applied Data Science With Python (Sales-Analysis Project)
+# Applied Data Science using Python (Sales-Analysis Project)
 
 The Project Statement:
 AAL is a household name in Australia, known for its clothing business since 2000. It caters to all groups— kids, women, men, and seniors. It has opened branches in many states in Australia, in metropolises and tier-1 and tier-2 cities. 
